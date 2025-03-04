@@ -615,6 +615,9 @@ p {
   .tm-gallery-item {
     margin: 0;
   }
+  .tm-contact-item {
+   font-size: 0.5em;
+  }
 }
 
 @media (max-width: 420px) {
